@@ -1,4 +1,4 @@
-# MA1805-mini-portfolio
+# ma1805-mini-portfolio
 
 https://ivam03.github.io/ma1805-mini-portfolio/ 
 
